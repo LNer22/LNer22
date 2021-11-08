@@ -1,4 +1,5 @@
-### Hi there 👋
+### ¡Hola!, soy Lener Quiroz 👋
+
 
 <!--
 **LNer22/LNer22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
